@@ -1,0 +1,15 @@
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\bin\Debug\Lazzat.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\bin\Debug\Lazzat.exe
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\bin\Debug\Lazzat.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\Lazzat.csproj.AssemblyReference.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\MainWindow.g.cs
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\App.g.cs
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\Lazzat_MarkupCompile.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\Lazzat_MarkupCompile.lref
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\MainWindow.baml
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\Lazzat.g.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\Lazzat.Properties.Resources.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\Lazzat.csproj.GenerateResource.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\Lazzat.csproj.CoreCompileInputs.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\Lazzat.exe
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\wpf\Lazzat\Lazzat\obj\Debug\Lazzat.pdb
